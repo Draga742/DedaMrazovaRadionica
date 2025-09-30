@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DedaMrazovaRadionica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fffa36ef437eb23da1daa90aef9b938b5fb84498")]
 [assembly: System.Reflection.AssemblyProductAttribute("DedaMrazovaRadionica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DedaMrazovaRadionica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

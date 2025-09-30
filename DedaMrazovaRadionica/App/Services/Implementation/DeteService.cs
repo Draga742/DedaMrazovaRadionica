@@ -29,7 +29,7 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
             {
                 if(session == null)
                 {
-                    return ServiceResult<IList<DeteDTO>>.Failure("Nema konekcije sa bazom podataka");
+                    return ServiceResult<IList<DeteDTO>>.Failure("Nema konekcije sa bazom podataka!");
                 }
 
                 var result = session.Query<Dete>()
@@ -67,7 +67,7 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
             }
             catch (Exception ex)
             {
-                return ServiceResult<bool>.Failure($"Greska pri brisanju deteta: {ex.Message}");
+                return ServiceResult<bool>.Failure($"Greska pri dodavanju deteta: {ex.Message}");
             }
             finally
             {
@@ -121,7 +121,7 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
 
                 if(deteDTO == null)
                 {
-                    return ServiceResult<bool>.Failure("Dete ne moze da bude null!");
+                    return ServiceResult<bool>.Failure("Dete ne sme biti null!");
                 }
 
                 //pribavljamo dete prema id-u
@@ -144,7 +144,42 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
             }
             catch (Exception ex)
             {
-                return ServiceResult<bool>.Failure($"Greska pri brisanju deteta: {ex.Message}");
+                return ServiceResult<bool>.Failure($"Greska pri azuriranja deteta: {ex.Message}");
+            }
+            finally
+            {
+                session?.Close();
+            }
+        }
+
+        public ServiceResult<IList<DeteDTO>> GetByImeIPrezime(string ime, string prezime)
+        {
+            var session = _dataLayer.OpenSession();
+
+            try
+            {
+                if (session == null)
+                    return ServiceResult<IList<DeteDTO>>.Failure("Nema konekcije sa bazom podataka!");
+
+                var query = session.Query<Dete>().AsQueryable();
+
+                // ako je ime prosledjeno (nije null/prazno), filtriraj po imenu
+                if (!string.IsNullOrWhiteSpace(ime))
+                    query = query.Where(d => d.Ime.Contains(ime));
+
+                // ako je prezime prosledjeno (nije null/prazno), filtriraj po prezimenu
+                if (!string.IsNullOrWhiteSpace(prezime))
+                    query = query.Where(d => d.Prezime.Contains(prezime));
+
+                var result = query
+                    .Select(d => d.ToDeteDTO())
+                    .ToList();
+
+                return ServiceResult<IList<DeteDTO>>.Success(result);
+            }
+            catch (Exception ex)
+            {
+                return ServiceResult<IList<DeteDTO>>.Failure($"Greska pri pribavljanju dece: {ex.Message}");
             }
             finally
             {

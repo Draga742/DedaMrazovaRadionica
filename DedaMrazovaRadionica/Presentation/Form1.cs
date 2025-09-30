@@ -2,6 +2,7 @@ using DedaMrazovaRadionica.Data;
 using Microsoft.Extensions.DependencyInjection;
 using System.Media;
 using DedaMrazovaRadionica.Presentation;
+using DedaMrazovaRadionica.Presentation.Deca;
 
 namespace DedaMrazovaRadionica
 {
@@ -22,8 +23,8 @@ namespace DedaMrazovaRadionica
 
         private void LoadControl(UserControl control)
         {
-            //pnlContent.Controls.Clear();
-            //pnlContent.Controls.Add(control);
+            panelContent.Controls.Clear();
+            panelContent.Controls.Add(control);
         }
 
         private void SetActiveButton(Button clickedButton)
@@ -37,10 +38,17 @@ namespace DedaMrazovaRadionica
 
         private void btnDeca_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Kliknuto dugme Deca!");
+            SetActiveButton((Button)sender);  
+            var control = _serviceProvider.GetRequiredService<DecaUC>();
+            LoadControl(control);
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }

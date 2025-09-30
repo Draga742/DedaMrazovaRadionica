@@ -5,6 +5,7 @@ using System.ServiceProcess;
 using Microsoft.Extensions.DependencyInjection;
 using DedaMrazovaRadionica.App.Services.Interfaces;
 using DedaMrazovaRadionica.Presentation;
+using DedaMrazovaRadionica.Presentation.Deca;
 
 namespace DedaMrazovaRadionica
 {
@@ -29,6 +30,9 @@ namespace DedaMrazovaRadionica
             //forme i usercontrols:
             services.AddTransient<Form1>();
             services.AddTransient<Home>();
+
+            services.AddTransient<DecaUC>();
+            services.AddTransient<DodajDete>();
 
             //kreiranje serviceprovider-a:
             ServiceProvider = services.BuildServiceProvider();

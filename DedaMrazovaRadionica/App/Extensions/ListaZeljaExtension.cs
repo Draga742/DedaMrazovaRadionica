@@ -18,7 +18,7 @@ namespace DedaMrazovaRadionica.App.Extensions
             return dto;
         }
 
-        public static ListaZelja CreateNewEntity(this ListaZeljaDTO dto, Pismo pismo, List<Zelja> zelje)
+        public static ListaZelja CreateNewEntity(this ListaZeljaDTO dto, Pismo pismo, IList<Zelja> zelje)
         {
             return new ListaZelja
             {

@@ -31,3 +31,6 @@ C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\obj\Debug\net
 C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\bin\Debug\net9.0-windows\DedaMrazovaRadionica.dll.config
+C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\obj\Debug\net9.0-windows\DedaMrazovaRadionica.sourcelink.json
+C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\obj\Debug\net9.0-windows\DedaMrazovaRadionica.Presentation.Deca.DecaUC.resources
+C:\Users\Draga\Documents\DedaMrazovaRadionica\DedaMrazovaRadionica\obj\Debug\net9.0-windows\DedaMrazovaRadionica.Presentation.Deca.DodajDete.resources

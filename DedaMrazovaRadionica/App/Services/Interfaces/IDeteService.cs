@@ -13,5 +13,6 @@ namespace DedaMrazovaRadionica.App.Services.Interfaces
         ServiceResult<bool> Add(DeteDTO deteDTO);
         ServiceResult<bool> Delete(int deteId);
         ServiceResult<bool> Update(DeteDTO deteDTO);
+        ServiceResult<IList<DeteDTO>> GetByImeIPrezime(string ime, string prezime);
     }
 }
