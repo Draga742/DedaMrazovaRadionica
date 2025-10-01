@@ -12,7 +12,7 @@ namespace DedaMrazovaRadionica.App.DTOs
         public int IdTim { get; set; }
         public string Naziv { get; set; } 
         public string Namena { get; set; }
-        public int KoordinatorId { get; set; } 
+        public int? KoordinatorId { get; set; } 
 
         public List<int> RadniciId { get; set; } = new();
     }

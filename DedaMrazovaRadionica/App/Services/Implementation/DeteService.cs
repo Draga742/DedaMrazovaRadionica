@@ -86,10 +86,10 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
                     return ServiceResult<bool>.Failure("Nema konekcije sa bazom podataka.");
                 }
 
-                var dete = session.Get<Dete>(deteId);
+                var dete = session.Load<Dete>(deteId);
                 if(dete == null)
                 {
-                    return ServiceResult<bool>.Failure("Dete sa datum ID-jem ne postoji!");
+                    return ServiceResult<bool>.Failure("Dete sa datim ID-jem ne postoji!");
                 }
 
                 session.Delete(dete);

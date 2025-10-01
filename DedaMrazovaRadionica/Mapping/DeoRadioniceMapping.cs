@@ -19,16 +19,16 @@ namespace DedaMrazovaRadionica.Mapping
             Map(x => x.Naziv, "NAZIV");
             Map(x => x.Broj_vilenjaka, "BROJ_VILENJAKA");
 
-            References(x => x.Sef).Column("SEF_ID").LazyLoad();
+            References(x => x.Sef).Column("SEF_ID").Cascade.DeleteOrphan().LazyLoad();
 
-            HasMany(x => x.TipoviIgracaka).KeyColumn("DEO_RADIONICE_ID").Cascade.All().Inverse();
-            HasMany(x => x.Radnici).KeyColumn("DEO_RADIONICE_ID").Cascade.All().Inverse();
+            HasMany(x => x.TipoviIgracaka).KeyColumn("DEO_RADIONICE_ID").Cascade.None().Inverse();
+            HasMany(x => x.Radnici).KeyColumn("DEO_RADIONICE_ID").Cascade.None().Inverse();
 
             HasManyToMany(x => x.MagicneVestine)
                  .Table("MAGICNE_VESTINE_DEO_RADIONICE")
                  .ChildKeyColumn("VESTINA_ID")
                  .ParentKeyColumn("DEO_RADIONICE_ID")
-                 .Cascade.All();
+                 .Cascade.None();
         }
     }
 }

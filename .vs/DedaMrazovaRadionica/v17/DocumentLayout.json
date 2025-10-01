@@ -3,40 +3,156 @@
   "WorkspaceRootPath": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\zeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\zeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\itovarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\itovarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\deteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\deteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\irvasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\irvasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\izeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\izeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\tovarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\tovarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\zeljaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\zeljaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ilistazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ilistazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ipoklonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ipoklonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ipismoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ipismoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ilistazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ilistazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\timvilenjakaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\timvilenjakaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\timvilenjakaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\timvilenjakaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\zeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\zeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\tovarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\tovarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\radnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\radnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\irvasarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\irvasarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\sefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\sefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\deteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\deteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\tovardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\tovardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\irvasmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\irvasmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\irvasardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\irvasardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\pismoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\pismoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\listazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\listazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\pismomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\pismomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ideoradioniceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ideoradioniceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\deoradioniceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\deoradioniceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\deoradionicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\deoradionicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\deoradionice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\deoradionice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\detedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\detedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\zeljamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\zeljamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\zelja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\zelja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\dete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\dete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\iradnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\iradnikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\radnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\radnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\interfaces\\ideteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\interfaces\\ideteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\poklonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\poklonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\tipigrackeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\tipigrackeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\services\\implementation\\listazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\implementation\\listazeljaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\listazeljaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,11 +163,7 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\pismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\pismodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\pismodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\presentation\\deca\\decauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\dedamrazovaradionica\\presentation\\deca\\decauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\presentation\\deca\\decauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -67,16 +179,12 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\presentation\\deca\\dodajdete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\presentation\\deca\\dodajdete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\dedamrazovaradionica\\presentation\\deca\\dodajdete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\presentation\\deca\\dodajdete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\presentation\\deca\\dodajdete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\presentation\\deca\\dodajdete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\detedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\detedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\dedamrazovaradionica\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -99,48 +207,8 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\poklon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\deoradionice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\deoradionice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\sef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\sef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\timvilenjaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\timvilenjaka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\dedamrazovaradionica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\dedamrazovaradionica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\dete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\dete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\zelja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\zelja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\vilenjak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\vilenjak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\tipigracke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,60 +219,28 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\magicnavestina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\irvasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\irvasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\irvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\irvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\entities\\igracka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\entities\\igracka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\deoradionicemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\deoradionicemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\detemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\detemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\zeljamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\zeljamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\vilenjakmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\vilenjakmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\tovarmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\tovarmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\tipigrackemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\tipigrackemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\timvilenjakamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\timvilenjakamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\sefmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\sefmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\radnikmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\radnikmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\poklonmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\poklonmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\pismomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\pismomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\mentormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,22 +259,6 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\igrackamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\irvasarmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\irvasarmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\mapping\\irvasmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\mapping\\irvasmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\dedamrazovaradionica\\presentation\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\presentation\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -251,32 +271,12 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\tovardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\tovardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\vilenjakextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\vilenjakextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\tovarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\tovarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\tipigrackeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\tipigrackeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\timvilenjakaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\timvilenjakaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\sefextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\sefextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\radnikextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\radnikextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\poklonextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -291,20 +291,8 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\magicnavestinaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\irvasextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\irvasextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\irvasarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\irvasarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\igrackaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\igrackaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\extensions\\deoradioniceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\extensions\\deoradioniceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\zeljadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -319,16 +307,8 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\tipigrackedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\timvilenjakadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\timvilenjakadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\sefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\sefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\radnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\radnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\poklondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -351,16 +331,8 @@
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\irvasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\irvasardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\irvasardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\igrackadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\igrackadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\app\\dtos\\deoradionicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|solutionrelative:dedamrazovaradionica\\app\\dtos\\deoradionicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0824D9A6-D85D-4D3A-86A1-3DBA61811348}|DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj|c:\\users\\draga\\documents\\dedamrazovaradionica\\dedamrazovaradionica\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -373,38 +345,38 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 195,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IZeljaService.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IZeljaService.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IZeljaService.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IZeljaService.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IZeljaService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IPoklonService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPoklonService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPoklonService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPoklonService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPoklonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T23:26:08.857Z",
+              "WhenOpened": "2025-10-01T02:25:57.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimVilenjakaService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TimVilenjakaService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TimVilenjakaService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TimVilenjakaService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TimVilenjakaService.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAArwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:36:04.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IPismoService.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T23:26:05.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "IListaZeljaService.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IListaZeljaService.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IListaZeljaService.cs",
@@ -417,322 +389,390 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IPismoService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IPismoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:26:05.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimVilenjakaExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:09:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZeljaService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:19:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RadnikService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\RadnikService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\RadnikService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\RadnikService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\RadnikService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:45:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DeteService.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\DeteService.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\DeteService.cs",
               "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\DeteService.cs",
               "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\DeteService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwHsAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowFsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T19:31:57.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "PismoService.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\PismoService.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\PismoService.cs",
               "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\PismoService.cs",
               "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\PismoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T23:09:58.162Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 205,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ZeljaService.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ZeljaService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwDoAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T00:29:29.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDeteService.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T21:57:48.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ListaZeljaService.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:51:06.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ZeljaExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ZeljaExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\ZeljaExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ZeljaExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\ZeljaExtension.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:30:39.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ListaZeljaExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:56:27.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pismo.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Pismo.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Pismo.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Pismo.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Pismo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:28:55.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PismoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\PismoDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\PismoDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\PismoDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\PismoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:43:51.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DecaUC.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs [Design]",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:23:10.5Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DecaUC.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:46:47.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Program.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Program.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Program.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA8wCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:14:14.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DodajDete.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:04:26.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DodajDete.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs [Design]",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:02:06.611Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DodajDete.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:28:10.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DeteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:31:08.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Title": "IDeoRadioniceService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeoRadioniceService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeoRadioniceService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeoRadioniceService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeoRadioniceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T20:09:18.903Z",
+              "WhenOpened": "2025-09-30T19:08:13.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITovarService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\ITovarService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\ITovarService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\ITovarService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\ITovarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:31:12.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs [Design]",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "TovarService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TovarService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TovarService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TovarService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TovarService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:41:50.289Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:09:10.664Z",
+              "WhenOpened": "2025-10-01T01:53:44.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ListaZelja.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IrvasService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:28:00.448Z",
+              "WhenOpened": "2025-10-01T02:02:03.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Poklon.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Poklon.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Poklon.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Poklon.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Poklon.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "TovarExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:48:11.809Z",
+              "WhenOpened": "2025-09-28T18:15:55.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
+              "Title": "IrvasarService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasarService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasarService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasarService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\IrvasarService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:05:12.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SefService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\SefService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\SefService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\SefService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\SefService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:42:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Tovar.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Tovar.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Tovar.cs",
               "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Tovar.cs",
               "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Tovar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:16:22.409Z",
+              "WhenOpened": "2025-10-01T00:31:39.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 16,
+              "Title": "IrvasMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:25:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TovarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:46:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IrvasarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:18:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PismoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:54:20.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeoRadioniceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:20:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeoRadioniceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:32:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "DeoRadionice.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\DeoRadionice.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\DeoRadionice.cs",
               "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\DeoRadionice.cs",
               "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\DeoRadionice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:52:43.047Z",
+              "WhenOpened": "2025-09-30T15:20:34.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Radnik.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Radnik.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Radnik.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Radnik.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Radnik.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "DeteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\DeteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:57:02.53Z",
+              "WhenOpened": "2025-09-30T20:32:40.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "ZeljaMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:55:41.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\IDataLayer.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Data\\IDataLayer.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\IDataLayer.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Data\\IDataLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:31:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\app.config",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\app.config",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\app.config",
+              "RelativeToolTip": "DedaMrazovaRadionica\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-28T21:29:20.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Zelja.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Zelja.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Zelja.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Zelja.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Zelja.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:28:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dete.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Dete.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Dete.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Dete.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Dete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:46:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRadnikService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IRadnikService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IRadnikService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IRadnikService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IRadnikService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:08:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RadnikDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:53:38.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Mentor.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Mentor.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Mentor.cs",
@@ -745,57 +785,230 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Sef.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Sef.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Sef.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Sef.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Sef.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "IDeteService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Interfaces\\IDeteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:58:38.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TimVilenjaka.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\TimVilenjaka.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\TimVilenjaka.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\TimVilenjaka.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\TimVilenjaka.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:06:24.998Z",
+              "WhenOpened": "2025-09-30T17:03:44.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Vilenjak.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Vilenjak.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Vilenjak.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Vilenjak.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Vilenjak.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "Radnik.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Radnik.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Radnik.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Radnik.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Radnik.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:36:42.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Zelja.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Zelja.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Zelja.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Zelja.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Zelja.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:28:25.913Z"
+              "WhenOpened": "2025-09-28T17:57:02.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "PoklonService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\PoklonService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\PoklonService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\PoklonService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\PoklonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:44:33.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TipIgrackeService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TipIgrackeService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TipIgrackeService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\TipIgrackeService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\TipIgrackeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:44:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListaZeljaService.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Services\\Implementation\\ListaZeljaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:51:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ListaZeljaExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\ListaZeljaExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:56:27.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Pismo.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Pismo.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Pismo.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Pismo.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Pismo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:28:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DecaUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs [Design]",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:23:10.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DecaUC.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DecaUC.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:46:47.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Program.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Program.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Program.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:14:14.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DodajDete.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:04:26.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DodajDete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs [Design]",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:02:06.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DodajDete.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Deca\\DodajDete.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:28:10.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:09:18.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:41:50.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Presentation\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:09:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ListaZelja.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\ListaZelja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:28:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Poklon.cs",
+              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Poklon.cs",
+              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Poklon.cs",
+              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Poklon.cs",
+              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Poklon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:48:11.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
               "Title": "TipIgracke.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\TipIgracke.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\TipIgracke.cs",
@@ -807,19 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Dete.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Dete.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Dete.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Dete.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Dete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:46:45.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 51,
               "Title": "DedaMrazovaRadionica.csproj",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj",
@@ -827,23 +1028,12 @@
               "RelativeToolTip": "DedaMrazovaRadionica\\DedaMrazovaRadionica.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-27T16:47:12.676Z"
+              "WhenOpened": "2025-09-27T16:47:12.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DataLayer.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\DataLayer.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Data\\DataLayer.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\DataLayer.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Data\\DataLayer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:53:19.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "MagicnaVestina.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\MagicnaVestina.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\MagicnaVestina.cs",
@@ -855,31 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Irvasar.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Irvasar.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Irvasar.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Irvasar.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Irvasar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:47:11.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Irvas.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Irvas.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Irvas.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Irvas.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Entities\\Irvas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:36:11.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 54,
               "Title": "Igracka.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Entities\\Igracka.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Entities\\Igracka.cs",
@@ -891,19 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DeoRadioniceMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\DeoRadioniceMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\DeoRadioniceMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\DeoRadioniceMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\DeoRadioniceMapping.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:52:45.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "DeteMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\DeteMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\DeteMapping.cs",
@@ -915,19 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "RadnikMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\RadnikMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\RadnikMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\RadnikMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\RadnikMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:54:30.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 58,
               "Title": "SefMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\SefMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\SefMapping.cs",
@@ -939,19 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "TimVilenjakaMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\TimVilenjakaMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\TimVilenjakaMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\TimVilenjakaMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\TimVilenjakaMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:55:16.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 57,
               "Title": "TipIgrackeMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\TipIgrackeMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\TipIgrackeMapping.cs",
@@ -963,19 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "TovarMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\TovarMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\TovarMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\TovarMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\TovarMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:55:29.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 56,
               "Title": "VilenjakMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\VilenjakMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\VilenjakMapping.cs",
@@ -987,19 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ZeljaMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\ZeljaMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:55:41.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 59,
               "Title": "PoklonMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\PoklonMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\PoklonMapping.cs",
@@ -1011,19 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "PismoMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\PismoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:54:20.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 61,
               "Title": "MagicnaVestinaMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\MagicnaVestinaMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\MagicnaVestinaMapping.cs",
@@ -1035,7 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 62,
               "Title": "ListaZeljaMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\ListaZeljaMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\ListaZeljaMapping.cs",
@@ -1047,7 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 63,
               "Title": "IgrackaMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IgrackaMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\IgrackaMapping.cs",
@@ -1059,19 +1153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "IrvasarMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasarMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\IrvasarMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasarMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\IrvasarMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:27:10.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 60,
               "Title": "MentorMapping.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\MentorMapping.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\MentorMapping.cs",
@@ -1083,31 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "IrvasMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Mapping\\IrvasMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:27:33.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\app.config",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\app.config",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\app.config",
-              "RelativeToolTip": "DedaMrazovaRadionica\\app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-28T21:29:20.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 65,
               "Title": "Home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Home.Designer.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Home.Designer.cs",
@@ -1119,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 64,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Presentation\\Home.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Presentation\\Home.cs",
@@ -1130,19 +1188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "IDataLayer.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\IDataLayer.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Data\\IDataLayer.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Data\\IDataLayer.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\Data\\IDataLayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T21:31:48.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 66,
               "Title": "ServiceResult.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Services\\ServiceResult.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Services\\ServiceResult.cs",
@@ -1154,31 +1200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "TovarDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\TovarDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:46:57.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "TovarExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\TovarExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:15:55.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 67,
               "Title": "VilenjakExtension.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\VilenjakExtension.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\VilenjakExtension.cs",
@@ -1190,31 +1212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "TipIgrackeExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TipIgrackeExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\TipIgrackeExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TipIgrackeExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\TipIgrackeExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:12:03.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "TimVilenjakaExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\TimVilenjakaExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:05:21.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "SefExtension.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\SefExtension.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\SefExtension.cs",
@@ -1223,18 +1221,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T18:03:45.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "RadnikExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\RadnikExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\RadnikExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\RadnikExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\RadnikExtension.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:53:29.211Z"
             },
             {
               "$type": "Document",
@@ -1275,30 +1261,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 72,
-              "Title": "IrvasExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\IrvasExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\IrvasExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\IrvasExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\IrvasExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:53:27.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "IrvasarExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\IrvasarExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\IrvasarExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\IrvasarExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\IrvasarExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:40:38.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
               "Title": "IgrackaExtension.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\IgrackaExtension.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\IgrackaExtension.cs",
@@ -1310,19 +1272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "DeoRadioniceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\Extensions\\DeoRadioniceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T15:20:32.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 73,
               "Title": "ZeljaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\ZeljaDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\ZeljaDTO.cs",
@@ -1334,7 +1284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 74,
               "Title": "VilenjakDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\VilenjakDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\VilenjakDTO.cs",
@@ -1346,7 +1296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 75,
               "Title": "TipIgrackeDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TipIgrackeDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\TipIgrackeDTO.cs",
@@ -1358,19 +1308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "TimVilenjakaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TimVilenjakaDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\TimVilenjakaDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\TimVilenjakaDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\TimVilenjakaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:05:27.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 76,
               "Title": "SefDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\SefDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\SefDTO.cs",
@@ -1382,19 +1320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "RadnikDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\RadnikDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:53:38.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 77,
               "Title": "PoklonDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\PoklonDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\PoklonDTO.cs",
@@ -1406,7 +1332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 78,
               "Title": "MentorDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\MentorDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\MentorDTO.cs",
@@ -1418,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 79,
               "Title": "MagicnaVestinaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\MagicnaVestinaDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\MagicnaVestinaDTO.cs",
@@ -1430,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 80,
               "Title": "ListaZeljaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\ListaZeljaDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\ListaZeljaDTO.cs",
@@ -1442,7 +1368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 81,
               "Title": "IrvasDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IrvasDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\IrvasDTO.cs",
@@ -1454,19 +1380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "IrvasarDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\IrvasarDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T15:18:20.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 82,
               "Title": "IgrackaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\IgrackaDTO.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\IgrackaDTO.cs",
@@ -1478,19 +1392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "DeoRadioniceDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
-              "RelativeDocumentMoniker": "DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
-              "ToolTip": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
-              "RelativeToolTip": "DedaMrazovaRadionica\\App\\DTOs\\DeoRadioniceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T17:04:53.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 83,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Draga\\Documents\\DedaMrazovaRadionica\\DedaMrazovaRadionica\\Enums\\Enums.cs",
               "RelativeDocumentMoniker": "DedaMrazovaRadionica\\Enums\\Enums.cs",

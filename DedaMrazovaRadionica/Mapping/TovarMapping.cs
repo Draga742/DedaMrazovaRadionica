@@ -20,13 +20,13 @@ namespace DedaMrazovaRadionica.Mapping
 
             Map(x => x.Grad, "GRAD");
 
-            HasMany(x => x.Irvasi).KeyColumn("TOVAR_SIFRA").Cascade.All().Inverse();
+            HasMany(x => x.Irvasi).KeyColumn("TOVAR_SIFRA").Cascade.None().Inverse();
 
             HasManyToMany(x => x.TimoviVilenjaka)
                 .Table("TOVAR_TIM")
                 .ChildKeyColumn("TIM_ID")
                 .ParentKeyColumn("TOVAR_ID")
-                .Cascade.All();
+                .Cascade.None();
         }
     }
 }

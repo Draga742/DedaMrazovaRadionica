@@ -25,7 +25,7 @@ namespace DedaMrazovaRadionica.Mapping
 
             References(x => x.Tovar).Column("TOVAR_SIFRA").LazyLoad();
 
-            HasMany(x => x.Irvasari).KeyColumn("IRVAS_ID").Cascade.All().Inverse();
+            HasMany(x => x.Irvasari).KeyColumn("IRVAS_ID").LazyLoad();
         }
     }
 }

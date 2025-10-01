@@ -53,12 +53,22 @@ namespace DedaMrazovaRadionica.App.Services.Implementation
                     return ServiceResult<bool>.Failure("Nema konekcije sa bazom podataka.");
                 }
 
-                Pismo newPismo = pismoDTO.CreateNewEntity(dete);
+                //ako postoji pismo za to dete, za tu godinu - ne moze se dodati novo pismo
+                var existingPismo = session.Query<Pismo>()
+                    .FirstOrDefault(p => p.Dete.Id_dete == dete.Id_dete && p.Datum_slanja.Year == DateTime.Now.Year);
+                if (existingPismo != null)
+                {
+                    Pismo newPismo = pismoDTO.CreateNewEntity(dete);
 
-                session.SaveOrUpdate(newPismo);
-                session.Flush();
+                    session.SaveOrUpdate(newPismo);
+                    session.Flush();
 
-                return ServiceResult<bool>.Success(true);
+                    return ServiceResult<bool>.Success(true);
+                }
+                else
+                {
+                    return ServiceResult<bool>.Failure("Pismo za to dete za tekuću godinu već postoji.");
+                }
             }
             catch (Exception ex)
             {

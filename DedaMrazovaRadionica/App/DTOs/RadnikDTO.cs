@@ -9,7 +9,7 @@ namespace DedaMrazovaRadionica.App.DTOs
 {
     public class RadnikDTO : VilenjakDTO
     {
-        public int KoordinatorFlag { get; set; }
+        public int KoordinatorFlag { get; set; } = 0;
         public TipMagicneSpecijalizacije TipMSpecijalizacije { get; set; }//tip magicne specijalizacije
         public string DuzinaObuke { get; set; }
         public int KrajnjaOcena { get; set; }

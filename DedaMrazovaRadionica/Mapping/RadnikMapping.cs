@@ -23,9 +23,9 @@ namespace DedaMrazovaRadionica.Mapping
             Map(x => x.Duzina_obuke, "DUZINA_OBUKE");
             Map(x => x.Krajnja_ocena, "KRAJNJA_OCENA");
 
-            References(x => x.Tim_Vilenjaka).Column("TIM_ID").LazyLoad();
-            References(x => x.Deo_Radionice).Column("DEO_RADIONICE_ID").LazyLoad();
-            References(x => x.Mentor).Column("MENTOR_ID").LazyLoad();
+            References(x => x.Tim_Vilenjaka).Column("TIM_ID").Cascade.None().LazyLoad();
+            References(x => x.Deo_Radionice).Column("DEO_RADIONICE_ID").Cascade.None().LazyLoad();
+            References(x => x.Mentor).Column("MENTOR_ID").Cascade.None().LazyLoad();
 
             HasManyToMany(x => x.Igracke)
                 .Table("PRAVIO_RADNIK")

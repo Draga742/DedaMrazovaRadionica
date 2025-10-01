@@ -19,8 +19,7 @@ namespace DedaMrazovaRadionica.Mapping
             Map(x => x.Naziv_pesme, "NAZIV_PESME");
             Map(x => x.Tekst_pesme, "TEKST_PESME");
 
-            References(x => x.Irvas).Column("IRVAS_ID").LazyLoad();
-            //References(x => x.Vilenjak).Column("VILENJAK_ID").LazyLoad();
+            References(x => x.Irvas).Column("IRVAS_ID").Cascade.None().LazyLoad();
         }
     }
 }

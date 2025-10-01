@@ -19,7 +19,7 @@ namespace DedaMrazovaRadionica.App.Extensions
             };
         }
 
-        public static TimVilenjaka CreateNewEntity(this TimVilenjakaDTO timDTO, Radnik koordinator, List<Radnik> radnici, List<Poklon> pokloni, List<Tovar> tovari)
+        public static TimVilenjaka CreateNewEntity(this TimVilenjakaDTO timDTO, Radnik koordinator, IList<Radnik> radnici, IList<Poklon> pokloni, IList<Tovar> tovari)
         {
             if (timDTO == null) return null;
 

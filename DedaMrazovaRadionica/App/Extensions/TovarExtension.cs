@@ -17,13 +17,13 @@ namespace DedaMrazovaRadionica.App.Extensions
             };
         }
 
-        public static Tovar CreateNewEntity(this TovarDTO tovarDTO, List<Irvas> irvasi, List<TimVilenjaka> timovi)
+        public static Tovar CreateNewEntity(this TovarDTO tovarDTO)
         {return new Tovar
             {
                 Sifra = tovarDTO.Sifra,
                 Grad = tovarDTO.Grad,
-                Irvasi = irvasi,     
-                TimoviVilenjaka = timovi
+                //Irvasi = irvasi,     
+                //TimoviVilenjaka = timovi
             };
         }
     }
